@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Leon Jose  ![shot2 dribbble](https://github.com/no37no37/no37no37/assets/132648428/d3ff3c8b-1e41-45b8-a63c-573c24c9c3e0)
-
+- 👋 Hi, I’m Leon Jose <img align="right" width="50" height="100" src="[https://picsum.photos/100/100](https://github.com/no37no37/no37no37/assets/132648428/d3ff3c8b-1e41-45b8-a63c-573c24c9c3e0)">
 - 👀 I’m a curious Data Science guy.
 - 🌱 I’m currently learning Python libraries for Data Science
 - 🕵 I’m looking to collaborate on Data Science Projects.
